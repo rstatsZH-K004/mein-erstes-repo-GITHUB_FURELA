@@ -41,3 +41,7 @@ vignettes/*.pdf
 # Ignoriere folgende Dateien
 *.csv
 README.html
+
+
+# Daten im Data Ordner nicht pushen
+data/
